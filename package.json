@@ -8,5 +8,5 @@
   "main": "CTF.js",
   "scripts": {
     "start": "node CTF.js"
-  },
+  }
 }
